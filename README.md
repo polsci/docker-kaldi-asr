@@ -1,5 +1,7 @@
 # Compiled Kaldi ASR
 
+_tweaking the dockerfile_
+
 This image contains a compiled version of
 [Kaldi-ASR](https://github.com/kaldi-asr/kaldi) in `/opt/kaldi`.  To
 shorten the compilation time, only certain shared libraries have been
